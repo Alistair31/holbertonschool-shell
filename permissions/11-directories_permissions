@@ -1,2 +1,2 @@
 #!/bin/bash
-find ~/holbertonschool-shell-1/permissions -type d -exec chmod a+x {} \;
+chmod -R a+rX .
